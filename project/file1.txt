@@ -1,1 +1,2 @@
 this is file1
+now a  change has been occured in file1
